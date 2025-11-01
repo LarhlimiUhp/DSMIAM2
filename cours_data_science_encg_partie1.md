@@ -19,7 +19,8 @@
 
 ### 1.1 Définition et Contexte
 
-![A. Larhlimi](ChatGPT Image 1 nov. 2025, 04_01_20.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d2a7134e-9e29-4915-8b68-f822b2ebd46d" />
+
 
 La **science des données** (Data Science) est un domaine interdisciplinaire qui combine les statistiques, l'informatique et l'expertise métier pour extraire des connaissances et des insights à partir de données structurées et non structurées.
 
